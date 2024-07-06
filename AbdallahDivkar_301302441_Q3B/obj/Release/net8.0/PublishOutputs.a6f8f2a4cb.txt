@@ -1,0 +1,5 @@
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\publish\AbdallahDivkar_301302441_Q3B.exe
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\publish\AbdallahDivkar_301302441_Q3B.dll
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\publish\AbdallahDivkar_301302441_Q3B.deps.json
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\publish\AbdallahDivkar_301302441_Q3B.runtimeconfig.json
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\publish\AbdallahDivkar_301302441_Q3B.pdb

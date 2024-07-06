@@ -1,0 +1,14 @@
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\AbdallahDivkar_301302441_Q3B.exe
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\AbdallahDivkar_301302441_Q3B.deps.json
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\AbdallahDivkar_301302441_Q3B.runtimeconfig.json
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\AbdallahDivkar_301302441_Q3B.dll
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\bin\Release\net8.0\AbdallahDivkar_301302441_Q3B.pdb
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.AssemblyInfoInputs.cache
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.AssemblyInfo.cs
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.csproj.CoreCompileInputs.cache
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.dll
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\refint\AbdallahDivkar_301302441_Q3B.dll
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.pdb
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\AbdallahDivkar_301302441_Q3B.genruntimeconfig.cache
+D:\Centennial\COMP100\Code files\Test 1\AbdallahDivkar_301302441_Q3B\obj\Release\net8.0\ref\AbdallahDivkar_301302441_Q3B.dll

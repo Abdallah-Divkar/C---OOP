@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbdallahDivkar_301302441_Q3B/1.0.0": {
+        "runtime": {
+          "AbdallahDivkar_301302441_Q3B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbdallahDivkar_301302441_Q3B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
