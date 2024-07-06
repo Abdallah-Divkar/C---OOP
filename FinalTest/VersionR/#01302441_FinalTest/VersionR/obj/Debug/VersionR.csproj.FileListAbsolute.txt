@@ -1,0 +1,7 @@
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\bin\Debug\VersionR.exe.config
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\bin\Debug\VersionR.exe
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\bin\Debug\VersionR.pdb
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\obj\Debug\VersionR.csproj.AssemblyReference.cache
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\obj\Debug\VersionR.csproj.CoreCompileInputs.cache
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\obj\Debug\VersionR.exe
+D:\02.Centennial\COMP100\Code files\FinalTest\VersionR\#01302441_FinalTest\VersionR\obj\Debug\VersionR.pdb
